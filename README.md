@@ -14,6 +14,7 @@ This project is built using the following concepts<br />
       * Added a "No image" when the API doesn't provide the image
       * Previous and Next buttons for better user experience
       * Disabled previous and next buttons when there is no content to show<br />
+
 Thankyou for visiting my repository!
 
 
