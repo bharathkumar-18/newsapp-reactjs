@@ -15,9 +15,6 @@ This project is built using the following concepts<br />
       * Previous and Next buttons for better user experience
       * Disabled previous and next buttons when there is no content to show<br />
 
-Here's a glimpse of how the web app looks: <br />
-
-
 Thankyou for visiting my repository!
 
 
