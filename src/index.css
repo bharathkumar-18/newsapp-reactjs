@@ -1,0 +1,17 @@
+#contact-icon{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+.getintouch{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 30%;
+    border: 5px dashed black ;
+}
+.contactdark{
+    filter: invert(100%);
+}

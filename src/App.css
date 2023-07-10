@@ -1,0 +1,22 @@
+.dropdown-menu{
+  cursor: pointer;
+}
+.dropdown-item:hover{
+  background-color: blue;
+  color:white;
+}
+
+.card-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-text {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
